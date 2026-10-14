@@ -1,4 +1,4 @@
-## John L Kramer
+## John Kramer
 
 ### whoami
 
@@ -9,6 +9,8 @@ Dad of 3.5 wonderful kids, 2 cute cats, and 2 crazy dogs. Husband of a brilliant
 I'm a HUGE Packers fan. I love prog rock, jazz, and lots of other music. Some of my favorites are [King Crimson](https://youtu.be/SvJe25wA-e8?si=I0gaZuZu8oShSBok&t=26), [Frank Zappa](https://youtu.be/r_qS3w8zBvM?si=JxDt_aK-jkSWeo2y), [Primus](https://youtu.be/aYDfwUJzYQg?si=DzjWPv2rgvVaSIrd), [John Coltrane](https://youtu.be/lJ7QTRzV9RM?si=x6mKUVs0Yz-tEsgc), and [Jaco Pastorius](https://youtu.be/IjS9Y-T589g?si=A-nooU3--co_8xdi). Lifting heavy things at the gym is my happy place.
 
 I've beeb engineering software for quite a while. The convenience of the cloud changed everything for me. Agentic development is changing even more. For decades, people have preached devops style automation. Agents are the next level. Have an anoying process? Have an agent automate it or-if it is a little more-complex-schedule an agent to perform that task.
+
+My [LinkedIn](https://www.linkedin.com/in/johnlkramer/) is probably the best way to contact me.
 
 Below is a sample of what I have been working on. More to come!
 
