@@ -4,7 +4,7 @@
 
 <img align="left" src="images/me-and-doggo.png" alt="Me and Doggo" width="400">
 
-Dad of 3.5 wonderful kids, 2 cute cats, and 2 crazy dogs. Husband of a brilliant beautiful wife who is going to change the world with her research in the field of biology.
+Dad of 3.5 wonderful kids, 2 cute cats, and 2 crazy dogs. Husband of a brilliant beautiful wife who is going to change the world with her research in the field of biological sciences.
 
 I'm a HUGE Packers fan. I love prog rock, jazz, and lots of other music. Some of my favorites are [King Crimson](https://youtu.be/SvJe25wA-e8?si=I0gaZuZu8oShSBok&t=26), [Frank Zappa](https://youtu.be/r_qS3w8zBvM?si=JxDt_aK-jkSWeo2y), [Primus](https://youtu.be/aYDfwUJzYQg?si=DzjWPv2rgvVaSIrd), [John Coltrane](https://youtu.be/lJ7QTRzV9RM?si=x6mKUVs0Yz-tEsgc), and [Jaco Pastorius](https://youtu.be/IjS9Y-T589g?si=A-nooU3--co_8xdi). Lifting heavy things at the gym is my happy place.
 
