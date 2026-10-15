@@ -22,7 +22,7 @@ Below is a sample of what I have been working on. More to come!
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/johnlkramer)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/johnlkramer)
 
-### 📂 Featured Projects
+### 💻 Featured Projects
 
 | Project                                                                     | Description                                                                                                                            |
 |:----------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------|
