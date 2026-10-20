@@ -28,4 +28,5 @@ Below is a sample of what I have been working on. More to come!
 |:----------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------|
 | **[MCP Portal](https://github.com/JohnLKramer/mcp-portal)**                 | MCP Gateway that focuses on authorization and authentication.                                                                          |
 | **[Custom Superpowers](https://github.com/JohnLKramer/custom-superpowers)** | Superpowers is my favorite agentic coding framewok but I made some improvemenst including milestone review and customized final review |
+| **[Vectorist](https://github.com/JohnLKramer/vectorist)**                   | Vectorist is a framework for ingesting content into a vector database. It uses SQLite  to stage contant and currently supports SQLite and Postgres vector dbs|
 | **[My LLM Skills](https://github.com/JohnLKramer/jk-skills)**               | Some useful skills I've put together. Feel free to check these out and let me know what you think                                      |
